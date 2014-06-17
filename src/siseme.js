@@ -3,6 +3,7 @@
   var patches = {
     '/SISEWeb/pub/repair/studentRepairAppAction.do': 'studentRepairAppAction'
   , '/sise/module/select_class/studentselectteam_main.jsp': 'studentselectteam_main'
+  , '/SISEWeb/module/sise/teaching_material/index.jsp': 'teaching_material'
   }
 
   function insertScript (path) {
